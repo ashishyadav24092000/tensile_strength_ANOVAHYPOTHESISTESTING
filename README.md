@@ -24,3 +24,5 @@ Step-4:
 
 Step-5:
 ![fifth](https://user-images.githubusercontent.com/55339677/146363929-137ebfc3-1e55-4cf5-9d12-5fdbe2777613.png)
+
+# So here we reject our null hypothesis H0 and conclude that hardwood concentration in the pulp significantly affects the mean strength of the paper.
